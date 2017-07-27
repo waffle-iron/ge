@@ -1,0 +1,40 @@
+﻿<Window x:Class="Game_Engine__.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Game_Engine__"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowStartupLocation="CenterScreen"  WindowState="Maximized" d:DesignWidth="1335" Height="738">
+    <Grid>
+        <RichTextBox HorizontalAlignment="Left" Height="424" Margin="74,165,0,0" VerticalAlignment="Top" Width="368">
+            <FlowDocument>
+                <Paragraph LineHeight="6">
+                    <Run Text="load String_Engine."/>
+                </Paragraph>
+                <Paragraph LineHeight="6">
+                    <Run Text="const float pi = 3.14."/>
+                </Paragraph>
+                <Paragraph LineHeight="6">
+                    <Run Text="state main() {"/>
+                </Paragraph>
+                <Paragraph LineHeight="6" TextIndent="20">
+                    <Run Text="int radius, area."/>
+                </Paragraph>
+                <Paragraph LineHeight="6" TextIndent="20">
+                    <Run Text="cast(&quot;Area of the Circle\nEnter Radius&quot;)."/>
+                </Paragraph>
+                <Paragraph LineHeight="6" TextIndent="20">
+                    <Run Text="radius = absorb()."/>
+                </Paragraph>
+                <Paragraph LineHeight="6" TextIndent="20">
+                    <Run Text="cast(&quot;The Area of the Circle is &quot; + (radius*radius*pi))."/>
+                </Paragraph>
+                <Paragraph LineHeight="6">
+                    <Run Text="}"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\bin\Debug\Game Engine++.exe.config
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\bin\Debug\Game Engine++.exe
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\bin\Debug\Game Engine++.pdb
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\Game Engine++.csprojResolveAssemblyReference.cache
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\MainWindow.g.cs
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\App.g.cs
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\Game Engine++_MarkupCompile.cache
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\Game Engine++_MarkupCompile.lref
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\MainWindow.baml
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\Game Engine++.g.resources
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\Game_Engine__.Properties.Resources.resources
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\Game Engine++.csproj.GenerateResource.Cache
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\Game Engine++.exe
+c:\users\haru\documents\visual studio 2017\Projects\Game Engine++\Game Engine++\obj\Debug\Game Engine++.pdb

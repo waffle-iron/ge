@@ -12,9 +12,9 @@ Download and install Visual Studio(2017 is recommended).
 
 * **Joeylene Rivera** - *Programmer and Team Lead* - (https://github.com/merakireal)
 * **Dale Nardeen Lanto** - *Programmer* (https://github.com/soradale)
-* **Katherine Mae Aranez** - "Documentation* (https://github.com/darkbloodmegumi)
-* **Jamillah Guialil** - "Documentation* (https://github.com/itsSuzy)
-* **Bradley Jan Faustino** - "Documentation*
+* **Katherine Mae Aranez** - *Documentation* (https://github.com/darkbloodmegumi)
+* **Jamillah Guialil** - *Documentation* (https://github.com/itsSuzy)
+* **Bradley Jan Faustino** - *Documentation*
 
 ## License
 

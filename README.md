@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/plmdc/ge.png?label=ready&title=Ready)](https://waffle.io/plmdc/ge?utm_source=badge)
 # Game Engine++ (GE++) Compiler
 
 GE++ (Game Engine++) Compiler was built based on the structure of C++ and Java. The compiler was made using C#. It is an iterative project for Automata/Compiler Design and a partial requirement Bachelor of Science in Computer Studies Major in Computer Science
